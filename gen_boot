@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkinitcpio -p linux # 生成内存盘到 /boot
+cp /boot/* .    # 拷贝内存盘 /boot 及内核到当前目录
+
+# gen_boot 命令在 /boot_docker 里执行

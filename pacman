@@ -1,0 +1,45 @@
+# shell
+zsh
+zsh-syntax-highlighting
+openssh
+bash-completion
+
+
+# useful command line tools
+tree
+vim
+git
+git-lfs
+unzip
+
+# network related
+wget
+
+# system
+nvidia-dkms
+linux-headers
+
+# programming
+jupyter
+jupyter-notebook
+jupyter-nbconvert
+
+# python libs
+python-pandas
+python-sympy
+python-pip
+python-matplotlib
+python-numpy
+python-scipy
+python-h5py
+python-tqdm
+python-pytorch-cuda
+python-tensorflow-opt-cuda
+tensorboard
+
+# linter & beautifier
+autopep8
+flake8
+
+# run docker inside docker
+docker
